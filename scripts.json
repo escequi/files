@@ -1,7 +1,7 @@
 [
   {
     "name": "GBankDumper",
-    "jarUrl": "http://PLACEHOLDER/GBankDumper.jar",
+    "jarUrl": "https://github.com/escequi/files/raw/refs/heads/main/GBankDumper.jar",
     "IntParams": {
       "IvP8EIXH": 6,
       "L015jBHb": 1,
